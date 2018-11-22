@@ -1,6 +1,6 @@
 {
   "name": "ejcurso_npm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "esto es un ejemplo",
   "main": "index.js",
   "scripts": {
@@ -14,5 +14,7 @@
   "dependencies": {
     "jquery": "^3.3.1",
     "json": "^9.0.6"
-  }
+  },
+  "repository": {"type": "github", "url": https://github.com/georgeguitar/curso_npm.git},
+  "homepage": "https://github.com/georgeguitar/curso_npm.git"
 }
