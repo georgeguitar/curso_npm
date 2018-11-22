@@ -13,8 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "jquery": "^3.3.1",
-    "json": "^9.0.6"
+    "json": "^9.0.6",
+    "lodash": "^4.17.11"
   },
-  "repository": {"type": "github", "url": https://github.com/georgeguitar/curso_npm.git},
   "homepage": "https://github.com/georgeguitar/curso_npm.git"
 }
