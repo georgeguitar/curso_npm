@@ -1,6 +1,6 @@
 {
   "name": "ejcurso_npm",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "esto es un ejemplo",
   "main": "index.js",
   "scripts": {
